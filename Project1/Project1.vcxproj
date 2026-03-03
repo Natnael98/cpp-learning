@@ -128,8 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="New_Keyword.cpp" />
-    <ClCompile Include="type_conversion\explicit.cpp" />
-    <ClCompile Include="type_conversion\implicit.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

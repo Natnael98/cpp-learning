@@ -18,11 +18,5 @@
     <ClCompile Include="New_Keyword.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="type_conversion\implicit.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="type_conversion\explicit.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
