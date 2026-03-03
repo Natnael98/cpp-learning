@@ -21,5 +21,8 @@
     <ClCompile Include="type_conversion\implicit_conversion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="type_conversion\explicit_conversion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
